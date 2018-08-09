@@ -1,0 +1,35 @@
+a{color:#000000;text-decoration:none}
+a:hover{color:#354E4E;text-decoration:none}
+a#new{color:#000000;text-decoration:underline}
+a#new:hover{color:#354E4E;text-decoration:underline}
+a#anon{color:#000000;text-decoration:none;font-weight:normal}
+a#anon:hover{color:#354E4E;text-decoration:none;font-weight:normal}
+a#club{color:#003B00;text-decoration:none}
+a#club:hover{color:#354E4E;text-decoration:none}
+a#adm{color:#780000;text-decoration:none}
+a#adm:hover{color:#354E4E;text-decoration:none}
+body{color:#000000;font:11px Verdana,Tahoma,Arial,sans-serif}
+h3{font:bold 14px Verdana,Tahoma,Arial,sans-serif}
+img{border:0px none}
+p{text-align:justify;text-indent:16px}
+p a{color:#000000;text-decoration:underline}
+p a:hover{color:#354E4E;text-decoration:underline}
+select,input,textarea{border:1px solid #354E4E;font:11px Verdana,Tahoma,Arial,sans-serif}
+table{background:##FFFFFF;font:11px Verdana,Tahoma,Arial,sans-serif}
+table.logon input{width:110px}
+table.menu{background:#354E4E;font:bold 11px Verdana,Tahoma,Arial,sans-serif}
+table.menu a{color:##EFEFEF;text-decoration:none}
+table.menu a:hover{color:#FFB200;text-decoration:none}
+table.menu div{border:1px solid #354E4E;background:##EFEFEF;width:122px;top:162px;z-index:2;visibility:hidden;position:absolute;display:inline;}
+table.menu div a{color:#000000;text-decoration:none}
+table.menu div a:hover{color:#354E4E;text-decoration:none}
+table.menu td#a{background:##EFEFEF}
+table.menu td#m{border-left:1px solid ##EFEFEF}
+table.regform input{width:75%}
+table.regform input#r,select#r{background:#FFF0F0;border:1px solid #FF0000}
+table.regform textarea{width:75%}
+table.forform select,input,textarea{width:100%}
+td#th,hr{color:#354E4E}
+tr#odd,td#odd{background:#C0DAD8}
+tr#th{background:#9BB4B2;font-weight:bold}
+hr{height:1px}
